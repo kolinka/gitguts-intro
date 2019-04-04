@@ -8,3 +8,4 @@ Coś
 
 dadatek do licencji
 
+zmiana w githubie
